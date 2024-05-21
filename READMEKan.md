@@ -39,11 +39,15 @@ https://github.com/HangJin13/pykan/tree/master
 Main results:
 
 ![image](vmc.png)
+
+
 First graph shows the numerical solution of NS functions solved by KAN.
 Each line is the velocity magnitude.
 We iterate 250 times and get this solution.
 
 ![image](loss.png)
+
+
 This graph is the value of current loss function vs iteration times.
 
 
@@ -52,4 +56,6 @@ This graph is a "weak" numerical solution of NS functions. We iterate 100 times 
 
 
 ![image](model.png)
+
+
 This graph shows the model of KAN.
