@@ -47,8 +47,8 @@ We iterate 250 times and get this solution.
 This graph is the value of current loss function vs iteration times.
 
 
-![image]
-This graph is a "weak" numerical solution of NS functions. We iterate 100 times to get this solution. The current loss value is the same as above.
+<!-- ![image]
+This graph is a "weak" numerical solution of NS functions. We iterate 100 times to get this solution. The current loss value is the same as above. -->
 
 
 ![image](model.png)
